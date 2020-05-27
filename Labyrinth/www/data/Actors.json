@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_9","characterIndex":0,"characterName":"Actor5","classId":1,"equips":[5,1,2,3,0],"faceIndex":0,"faceName":"ren","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ren","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"midori_fight","characterIndex":0,"characterName":"midori_overworld","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"midori","traits":[],"initialLevel":1,"maxLevel":99,"name":"Midori","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Naoya_fight","characterIndex":0,"characterName":"Naoya_overworld","classId":2,"equips":[6,0,2,6,4],"faceIndex":0,"faceName":"Naoya_normal","traits":[],"initialLevel":5,"maxLevel":99,"name":"Naoya","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"maya_combat","characterIndex":0,"characterName":"maya_overworld","classId":4,"equips":[4,0,2,6,0],"faceIndex":0,"faceName":"maya_face","traits":[],"initialLevel":20,"maxLevel":99,"name":"Maya","nickname":"","note":"","profile":""}
+]

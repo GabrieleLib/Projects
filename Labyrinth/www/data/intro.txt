@@ -1,0 +1,25 @@
+<block:-1,-1,10,10,offbot,center>
+
+Narra una leggenda...
+
+</block>
+
+<block:-1,-1,10,10,offbot,center>
+
+Molti millenni orsono...
+Una Dea mise alla prova l'umanità
+Nascondendo un tesoro in un labirinto 
+</block>
+
+<block:-1,-1,10,10,offbot,center>
+ Esso si erge in una torre su un'isola 
+ Negli anni,molti uomini provarono a raggiungerne 
+ la cima, senza successo...
+</block>
+
+<block:-1,-1,10,10,offbot,center>
+ Chi perde la vita nel labirinto avrà
+la sua anima confinata al suo interno
+senza nessuna possibilità di redenzione...
+</block>
+

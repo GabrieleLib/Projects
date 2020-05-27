@@ -1,0 +1,65 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,Hexagram>
+CREDITS
+
+\c[2]Engine
+Degica
+RPG Maker MV
+
+\c[2]Plugin Programmer
+Galv
+
+\c[2]Artwork
+Degica
+RPG Maker MV
+
+\c[2]Level Design
+Kaos
+</block>
+
+
+
+
+
+
+<block:-1,0,10,10,100,right>
+
+
+\c[2] Music
+Shin Megami Tensei Persona
+Lone player - normal battle
+SEBEC Above Ground- boss fights
+Pandora's battle- final battle
+persona - introduction
+Shin Megami Tensei III Nocturne
+-Amala Labyrinth 3rd kalpa - 7 chambers
+
+Shin Megami Tensei Persona 3 
+tartarus block 1 - area 1
+tartarus block 2 - area 2
+tartarus block 3 - area 3
+tartarus block 4 - area 4
+tartarus block 5 - area 5
+
+</block>
+
+<block:-1,0,10,10,100,left,Plain>
+
+\c[2] Sound Effects
+Shin Megami Tensei Persona 3 - menu and battle start
+RPG Maker MV
+
+
+/c[2] Character Design
+ Kaos
+</block>
+
+<block:999,0,10,10,300,center,Tower1>
+/c[2] Credits music
+Hoshi to Bokura to (the stars with us)- Persona 5 Credits
+
+Un ringraziamento va te, che hai giocato a questo gioco
+THE END
+</block>
